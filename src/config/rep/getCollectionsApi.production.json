@@ -1,0 +1,41 @@
+{
+  "code": "M0000",
+  "message": "OK",
+  "data": {
+    "content": [
+      {
+        "collectionId": "1",
+        "address": "0xf51fb8de65f85cb18a2558c1d3769835f526f36c",
+        "owner": "0x0000000000000000000000000000000000000000",
+        "name": "Multiverse NFT",
+        "description": "Multiverse NFT is Multiverse's original NFT Collection.",
+        "symbol": "MVSNFT",
+        "totalSupply": "16747",
+        "verified": false,
+        "createdAt": "2021-11-10T06:32:57.000Z",
+        "updatedAt": "2021-11-10T06:32:57.000Z",
+        "avatar": "https://d2tauiodk94ll0.cloudfront.net/frontend/sm-logo.png",
+        "attributes": {
+          "total": 1,
+          "data": {
+            "MVS": {},
+            "BTC": {}
+          }
+        },
+        "attributesDistribution": {
+          "total": 1,
+          "data": {
+            "MVS": {},
+            "BTC": {}
+          }
+        },
+        "bannerJSON": "{\"small\":\"https://d2tauiodk94ll0.cloudfront.net/frontend/nft-market-s1.png\",\"large\":\"https://d2tauiodk94ll0.cloudfront.net/frontend/nft-market-s1.png\"}",
+        "banner": {
+          "small": "https://d2tauiodk94ll0.cloudfront.net/frontend/nft-market-s1.png",
+          "large": "https://d2tauiodk94ll0.cloudfront.net/frontend/nft-market-s1.png"
+        }
+      }
+    ],
+    "count": 1
+  }
+}

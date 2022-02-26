@@ -1,0 +1,115 @@
+{
+  "code": "M0000",
+  "message": "OK",
+  "data": {
+    "blindboxId": "1",
+    "collectionId": "1",
+    "address": "0x461a9e45c300c06ec30a057f387263eb5535a57a",
+    "collectionAddress": "0x8d4f07f8c41900f3e6c6ec4f2e1d0e835dc56c47",
+    "title": "Fate/Origin BOX",
+    "bnbPrice": "0.010000000000000000",
+    "total": "1000",
+    "isSoldOut": false,
+    "startSell": true,
+    "startTime": "2021-11-16T16:00:00.000Z",
+    "endTime": "2021-12-01T16:00:00.000Z",
+    "imgURL": "https://d2tauiodk94ll0.cloudfront.net/frontend/blindbox-bg.png",
+    "metadata": {
+      "box": "https://d2tauiodk94ll0.cloudfront.net/frontend/blindbox-box.png"
+    },
+    "createdAt": "2021-11-10T18:44:06.000Z",
+    "updatedAt": "2021-11-10T18:44:06.000Z",
+    "boxes": [
+      {
+        "nftId": "1",
+        "collectionId": "1",
+        "collectionAddress": "0x8d4f07f8c41900f3e6c6ec4f2e1d0e835dc56c47",
+        "collectionName": "MarsVenus NFT",
+        "bunnyId": "1",
+        "bunnyName": "Bruce Lee",
+        "name": "Bruce Lee",
+        "description": "Bruce Lee, Chinese name Li Jun Fan, (born November 27, 1940, San Francisco, California, U.S.—died July 20, 1973, Hong Kong), American-born film actor who was renowned for his martial arts prowess and who helped popularize martial arts movies in the 1970s. Lee was born in San Francisco, but he grew up in Hong Kong.",
+        "creator": "0x02c4b20b4975e58989853337c1e2ae9e527611b1",
+        "metadataJSON": "{\"original\":\"https://d2tauiodk94ll0.cloudfront.net/nft/testnet/brucelee.png\",\"thumbnail\":\"https://d2tauiodk94ll0.cloudfront.net/nft/testnet/brucelee.png\",\"ipfs\":\"ipfs://QmWJprmxckbKpFt9114jGu7ap4jWpAZLUC41oA2E1CHVyn\",\"bucket\":\"https://d2tauiodk94ll0.cloudfront.net/nft/1/\"}",
+        "tokenURI": "ipfs://QmTaab9p2kjrozTVALospsMZX7eypRS3QKg365psJ1B87t",
+        "blindboxId": "1",
+        "probability": "30",
+        "supply": "300",
+        "createdAt": "2021-11-10T18:11:47.000Z",
+        "updatedAt": "2021-11-10T19:41:35.000Z",
+        "attributes": [
+          {
+            "bunnyId": "1",
+            "traitType": "bunnyId",
+            "value": "1",
+            "displayType": null
+          }
+        ],
+        "attributesDistribution": {
+          "bunnyId": "1",
+          "supplyCount": 300
+        }
+      },
+      {
+        "nftId": "2",
+        "collectionId": "1",
+        "collectionAddress": "0x8d4f07f8c41900f3e6c6ec4f2e1d0e835dc56c47",
+        "collectionName": "MarsVenus NFT",
+        "bunnyId": "2",
+        "bunnyName": "Doctor Strange",
+        "name": "Doctor Strange",
+        "description": "Doctor Strange follows the story of the talented neurosurgeon Doctor Stephen Strange who, after a tragic car accident, must put ego aside and learn the secrets of a hidden world of mysticism and alternate dimensions.",
+        "creator": "0x02c4b20b4975e58989853337c1e2ae9e527611b1",
+        "metadataJSON": "{\"original\":\"https://d2tauiodk94ll0.cloudfront.net/nft/testnet/doctorstrange.png\",\"thumbnail\":\"https://d2tauiodk94ll0.cloudfront.net/nft/testnet/doctorstrange.png\",\"ipfs\":\"ipfs://QmSH8o9uKM9tHqDafkPVSiF4bSYXKVdEbsUhzKvmD751io\",\"bucket\":\"https://d2tauiodk94ll0.cloudfront.net/nft/2\"}",
+        "tokenURI": "ipfs://QmXhf9gGKpEGrthHH9Hq2sAKgJ57ahhgxcokPKSPDFCg4c",
+        "blindboxId": "1",
+        "probability": "60",
+        "supply": "600",
+        "createdAt": "2021-11-11T05:00:18.000Z",
+        "updatedAt": "2021-11-11T05:00:18.000Z",
+        "attributes": [
+          {
+            "bunnyId": "2",
+            "traitType": "bunnyId",
+            "value": "2",
+            "displayType": null
+          }
+        ],
+        "attributesDistribution": {
+          "bunnyId": "2",
+          "supplyCount": 600
+        }
+      },
+      {
+        "nftId": "3",
+        "collectionId": "1",
+        "collectionAddress": "0x8d4f07f8c41900f3e6c6ec4f2e1d0e835dc56c47",
+        "collectionName": "MarsVenus NFT",
+        "bunnyId": "3",
+        "bunnyName": "Tesla",
+        "name": "Tesla",
+        "description": "Tesla, Elon musk's metaverse car.",
+        "creator": "0x02c4b20b4975e58989853337c1e2ae9e527611b1",
+        "metadataJSON": "{\"original\":\"https://d2tauiodk94ll0.cloudfront.net/nft/testnet/tesla.png\",\"thumbnail\":\"https://d2tauiodk94ll0.cloudfront.net/nft/testnet/tesla.png\",\"ipfs\":\"ipfs://QmXD6s69YP45ZEgBZZwAw6NaxQ2Z7AJJvqXoRm4qYuMLjG\",\"bucket\":\"https://d2tauiodk94ll0.cloudfront.net/nft/3/\"}",
+        "tokenURI": "ipfs://QmUabEppX19XQLvUXZafPS32Qne5ddWrEwHwpyY81EoX5W",
+        "blindboxId": "1",
+        "probability": "10",
+        "supply": "100",
+        "createdAt": "2021-11-11T05:00:18.000Z",
+        "updatedAt": "2021-11-11T05:00:18.000Z",
+        "attributes": [
+          {
+            "bunnyId": "3",
+            "traitType": "bunnyId",
+            "value": "3",
+            "displayType": null
+          }
+        ],
+        "attributesDistribution": {
+          "bunnyId": "3",
+          "supplyCount": 100
+        }
+      }
+    ]
+  }
+}

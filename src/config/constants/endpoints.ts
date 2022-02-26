@@ -1,0 +1,2 @@
+export const API_GATEWAY = process.env.REACT_APP_API_GATEWAY
+export const GRAPH_API_NFTMARKET = process.env.REACT_APP_GRAPH_API_NFT_MARKET

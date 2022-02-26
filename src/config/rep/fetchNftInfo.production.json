@@ -1,0 +1,195 @@
+{
+  "code": "M0000",
+  "message": "OK",
+  "data": {
+    "total": 6,
+    "data": [
+      {
+        "nftId": "4",
+        "collectionId": "1",
+        "collectionAddress": "0xf51fb8de65f85cb18a2558c1d3769835f526f36c",
+        "collectionName": "Multiverse NFT",
+        "bunnyId": "4",
+        "bunnyName": "MVS-II",
+        "rarity": "R",
+        "name": "MVS-II",
+        "description": "Onboarding the Multiverse Starship.",
+        "creator": "0x0000000000000000000000000000000000000000",
+        "metadataJSON": "{\"original\":\"https://d2tauiodk94ll0.cloudfront.net/nft/4/NFT_MVS_II_R_4K.png\",\"thumbnail\":\"https://d2tauiodk94ll0.cloudfront.net/nft/4/NFT_MVS_II_R_1K.png\",\"ipfs\":\"ipfs://QmNe22i2KTPHjiHZPUHPSafHQNTjTMjAM2VxVa34SBoixN\"}",
+        "tokenURI": "ipfs://QmQYjK2jDPwBJcGqR2SM7A5zH22GfVvWyJjvotKFR2rMz1",
+        "blindboxId": "2",
+        "probability": "90",
+        "supply": "3000",
+        "createdAt": "2022-01-10T08:00:00.000Z",
+        "updatedAt": "2022-01-10T08:00:00.000Z",
+        "attributes": [
+          {
+            "bunnyId": "4",
+            "traitType": "bunnyId",
+            "value": "4",
+            "displayType": null
+          }
+        ],
+        "attributesDistribution": {
+          "bunnyId": "4",
+          "supplyCount": 10000
+        }
+      },
+      {
+        "nftId": "5",
+        "collectionId": "1",
+        "collectionAddress": "0xf51fb8de65f85cb18a2558c1d3769835f526f36c",
+        "collectionName": "Multiverse NFT",
+        "bunnyId": "5",
+        "bunnyName": "ETH",
+        "rarity": "SR",
+        "name": "ETH",
+        "description": "Ether Onboarding the Multiverse Starship.",
+        "creator": "0x0000000000000000000000000000000000000000",
+        "metadataJSON": "{\"original\":\"https://d2tauiodk94ll0.cloudfront.net/nft/5/NFT_ETH_SR_4K.png\",\"thumbnail\":\"https://d2tauiodk94ll0.cloudfront.net/nft/5/NFT_ETH_SR_1K.png\",\"ipfs\":\"ipfs://QmSWXkV1d9384VQiAfZNxYV25761x54HK7oTR2EJhSP1Gv\"}",
+        "tokenURI": "ipfs://QmPapjsP93T5WWNDqf3wPMMn8Mr4UDmfQ5qLT49cLH49dx",
+        "blindboxId": "2",
+        "probability": "9",
+        "supply": "300",
+        "createdAt": "2022-01-10T08:00:00.000Z",
+        "updatedAt": "2022-01-10T08:00:00.000Z",
+        "attributes": [
+          {
+            "bunnyId": "5",
+            "traitType": "bunnyId",
+            "value": "5",
+            "displayType": null
+          }
+        ],
+        "attributesDistribution": {
+          "bunnyId": "5",
+          "supplyCount": 1000
+        }
+      },
+      {
+        "nftId": "6",
+        "collectionId": "1",
+        "collectionAddress": "0xf51fb8de65f85cb18a2558c1d3769835f526f36c",
+        "collectionName": "Multiverse NFT",
+        "bunnyId": "6",
+        "bunnyName": "Vitalik",
+        "rarity": "SSR",
+        "name": "Vitalik",
+        "description": "Vitalik Buterin Creating Ethereum in Multiverse.",
+        "creator": "0x0000000000000000000000000000000000000000",
+        "metadataJSON": "{\"original\":\"https://d2tauiodk94ll0.cloudfront.net/nft/6/NFT_Vitalik_SSR_4K.png\",\"thumbnail\":\"https://d2tauiodk94ll0.cloudfront.net/nft/6/NFT_Vitalik_SSR_1K.png\",\"ipfs\":\"ipfs://QmQj9UtQBpPF6M6DnVWag25Fwo5AiiNJAjU3n7TGCaNXjq\"}",
+        "tokenURI": "ipfs://QmaQw8CpLJPVet73e6FGpSH1zkmqMwCyHguSSFSsxjWWt8",
+        "blindboxId": "2",
+        "probability": "1",
+        "supply": "30",
+        "createdAt": "2022-01-10T08:00:00.000Z",
+        "updatedAt": "2022-01-10T08:00:00.000Z",
+        "attributes": [
+          {
+            "bunnyId": "6",
+            "traitType": "bunnyId",
+            "value": "6",
+            "displayType": null
+          }
+        ],
+        "attributesDistribution": {
+          "bunnyId": "6",
+          "supplyCount": 100
+        }
+      },
+      {
+        "nftId": "2",
+        "collectionId": "1",
+        "collectionAddress": "0xf51fb8de65f85cb18a2558c1d3769835f526f36c",
+        "collectionName": "Multiverse NFT",
+        "bunnyId": "2",
+        "bunnyName": "BTC",
+        "rarity": "SR",
+        "name": "BTC",
+        "description": "Multiverse Starship Traveling in BTC Dimension.",
+        "creator": "0x0000000000000000000000000000000000000000",
+        "metadataJSON": "{\"original\":\"https://d2tauiodk94ll0.cloudfront.net/nft/2/NFT_BTC_SR_4K.png\",\"thumbnail\":\"https://d2tauiodk94ll0.cloudfront.net/nft/2/NFT_BTC_SR_1K.png\",\"ipfs\":\"ipfs://QmUjq3TitQQuBfD3HmpDZWKaWHg1Qj8b6JYsiGjvCKY3XJ\",\"bucket\":\"https://d2tauiodk94ll0.cloudfront.net/nft/2/\"}",
+        "tokenURI": "ipfs://QmU8ueTFrwV2j5kpwPVKcucdNr9WqYQ9ymNk4rMsppG2s7",
+        "blindboxId": "1",
+        "probability": "9",
+        "supply": "900",
+        "createdAt": "2021-11-11T05:00:18.000Z",
+        "updatedAt": "2021-11-11T05:00:18.000Z",
+        "attributes": [
+          {
+            "bunnyId": "2",
+            "traitType": "bunnyId",
+            "value": "2",
+            "displayType": null
+          }
+        ],
+        "attributesDistribution": {
+          "bunnyId": "2",
+          "supplyCount": 1000
+        }
+      },
+      {
+        "nftId": "3",
+        "collectionId": "1",
+        "collectionAddress": "0xf51fb8de65f85cb18a2558c1d3769835f526f36c",
+        "collectionName": "Multiverse NFT",
+        "bunnyId": "3",
+        "bunnyName": "Satoshi",
+        "rarity": "SSR",
+        "name": "Satoshi",
+        "description": "The Creator Satoshi Nakamoto.",
+        "creator": "0x0000000000000000000000000000000000000000",
+        "metadataJSON": "{\"original\":\"https://d2tauiodk94ll0.cloudfront.net/nft/3/NFT_Satoshi_SSR_4K.png\",\"thumbnail\":\"https://d2tauiodk94ll0.cloudfront.net/nft/3/NFT_Satoshi_SSR_1K.png\",\"ipfs\":\"ipfs://QmfSnKCwvASY86nFejPyWGvK1ZDhTBxNG2XDkVM83wxVGW\",\"bucket\":\"https://d2tauiodk94ll0.cloudfront.net/nft/3/\"}",
+        "tokenURI": "ipfs://QmU15Sxfa1nn6WSjgUkJpRJgYBdwAJ4cDgVo2kQpN1rurz",
+        "blindboxId": "1",
+        "probability": "1",
+        "supply": "90",
+        "createdAt": "2021-11-11T05:00:18.000Z",
+        "updatedAt": "2021-11-11T05:00:18.000Z",
+        "attributes": [
+          {
+            "bunnyId": "3",
+            "traitType": "bunnyId",
+            "value": "3",
+            "displayType": null
+          }
+        ],
+        "attributesDistribution": {
+          "bunnyId": "3",
+          "supplyCount": 100
+        }
+      },
+      {
+        "nftId": "1",
+        "collectionId": "1",
+        "collectionAddress": "0xf51fb8de65f85cb18a2558c1d3769835f526f36c",
+        "collectionName": "Multiverse NFT",
+        "bunnyId": "1",
+        "bunnyName": "MVS",
+        "rarity": "R",
+        "name": "MVS",
+        "description": "Multiverse Starship Traveling across Multiverse.",
+        "creator": "0x0000000000000000000000000000000000000000",
+        "metadataJSON": "{\"original\":\"https://d2tauiodk94ll0.cloudfront.net/nft/1/NFT_MVS_R_4K.png\",\"thumbnail\":\"https://d2tauiodk94ll0.cloudfront.net/nft/1/NFT_MVS_R_1K.png\",\"ipfs\":\"ipfs://QmVg3ZuVFNT9tBgfkSsTSL4287P5hbgfo9MgzLHs8BJgwb\",\"bucket\":\"https://d2tauiodk94ll0.cloudfront.net/nft/1/\"}",
+        "tokenURI": "ipfs://Qmdav6KP1nkQecNxaFi47s22LTdy9CUmjtrRThgqmBMzKt",
+        "blindboxId": "1",
+        "probability": "90",
+        "supply": "9000",
+        "createdAt": "2021-11-10T18:11:47.000Z",
+        "updatedAt": "2021-11-10T19:41:35.000Z",
+        "attributes": [
+          {
+            "bunnyId": "1",
+            "traitType": "bunnyId",
+            "value": "1",
+            "displayType": null
+          }
+        ],
+        "attributesDistribution": {
+          "bunnyId": "1",
+          "supplyCount": 10000
+        }
+      }
+    ]
+  }
+}
