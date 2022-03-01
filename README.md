@@ -16,13 +16,14 @@ $ yarn start
 
 ##  Build
 
-Add uikit to replace the default theme
+Add uikit to replace the default theme, you should clone toolkit 
 
 ```bash
 $ cd toolkit/packages/pancake-uikit && yarn run build
 ```
 
-copy the dist file to frontend/node_modules/@pancakeswap
+copy the uikit build dist floder to frontend/node_modules/@pancakeswap
+/uikit
 
 ```bash
 $ yarn run build
