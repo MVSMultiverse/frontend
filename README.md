@@ -16,7 +16,8 @@ $ yarn start
 
 ##  Build
 
-Add uikit to replace the default theme, you should clone toolkit 
+Add uikit to replace the default theme, you should clone toolkit
+https://github.com/MVSMultiverse/toolkit
 
 ```bash
 $ cd toolkit/packages/pancake-uikit && yarn run build
