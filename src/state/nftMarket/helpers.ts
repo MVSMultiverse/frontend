@@ -608,7 +608,7 @@ export const fetchWalletTokenIdsForCollections = async (
       const res = await fetch(`${BASE_BAPI_GATEWAY_URL('functions/accountAssociatedNftsTokenIds')}&collectionAddress=${collectionAddress}&accountAddress=${account}`)
       if (res.ok) {
         const { result } = await res.json()
-        tokenIds = result.tokenIds
+        tokenIds = result?.tokenIds || []
 
       } else {
         console.error(`API: Failed to fetch NFT collection ${collectionAddress}`, res.statusText)
